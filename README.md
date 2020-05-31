@@ -6,7 +6,7 @@
 [Игра судоку](https://vyacheslavvasiliev.github.io/sudoku) - Рандомная геренация сетки, проверка ячеек, управление мышкой, клавиатурой. Подробнее в [исходниках](https://github.com/VyacheslavVasiliev/Sudoku-react).
 
 ### Старые работы написанные при обучении верстке:
-*Всер работы с адаптивной версткой*  
+*Все работы с адаптивной версткой*  
   
   
 [Магазин CatEnergy](https://vyacheslavvasiliev.github.io/CatEnergy/) - [исходники](https://github.com/VyacheslavVasiliev/CatEnergy)  
